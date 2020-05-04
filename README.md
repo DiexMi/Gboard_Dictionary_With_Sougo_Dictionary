@@ -1,6 +1,6 @@
 # Gboard词库【搜狗词库日用杂糅版】
 
-[`下载地址`]()<br>
+[`下载地址`](https://github.com/DiexMi/Gboard_Dictionary_With_Sougo_Dictionary/releases)<br>
 <br>
 <br>
 这是一个根据 [输入法词库(谷歌拼音)](https://play.google.com/store/apps/details?id=com.zee.gpinyin) 的所整理的集合版词库，使用excel制作，利用网络工具将中文简单翻译成拼音而形成的日用杂糅版词库。
