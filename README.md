@@ -1,0 +1,2 @@
+# Gboard_Dictionary_With_Sougo_Dictionary
+为Gboard而作，由输入法词库(谷歌拼音)整理，取自于搜狗词库的日用杂糅型词库
